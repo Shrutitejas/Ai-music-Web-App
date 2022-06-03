@@ -1,0 +1,18 @@
+body{
+    background-size: cover;
+}
+.heading{
+    margin: 0px;
+    width: 100%;
+    font-size: 23px;
+}
+.span{
+    color: black;
+    font-size: 17px;
+}
+#h3{
+    font-size: 25px;
+}
+canvas{
+    border: solid 15px lightseagreen;
+}
